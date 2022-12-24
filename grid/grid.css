@@ -1,0 +1,6 @@
+body {
+    display: grid;
+    grid-template-columns: minmax(200px, 1fr) repeat(39, 1fr) ;
+    grid-template-rows: 100px;
+    height: 1000px;
+}
